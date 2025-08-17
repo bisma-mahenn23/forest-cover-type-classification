@@ -1,6 +1,6 @@
 # 🌳 Forest Cover Type Classification
 The goal is to build machine learning models that can **predict forest cover type** based on cartographic and environmental features from the **Covertype dataset (UCI Machine Learning Repository)**.
-This project is part of my **Remote ML Internship at Elevvo Pathways (Level 2 – Task 3)**.
+This project is part of my **ML Internship at Elevvo Pathways (Level 2 – Task 3)**.
 
 # 📂 Dataset
 - **Source:** https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
